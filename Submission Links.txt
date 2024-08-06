@@ -1,0 +1,7 @@
+## Please find full links to other deliverables below, in case the hyperlinks in the report are unaccessible.
+
+1.  Link to agent performance video: https://www.youtube.com/watch?v=LtSFtUWTaws
+
+2. Link to recorded presentation: https://uniofbath.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f50b6840-3bf8-4446-a2a6-b16b01220e39&start=0 
+
+3. Link to GitHub repository: https://github.com/dfoshidero/Reinforcement-Learning-Coursework-2024
